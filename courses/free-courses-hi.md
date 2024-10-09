@@ -35,6 +35,7 @@
 * [Java](#java)
     * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)
+    * [GSAP](#gsap)
     * [jQuery](#jquery)
     * [Next.js](#nextjs)
     * [Node.js](#nodejs)
@@ -79,6 +80,7 @@
 * [Binary Trees - by LoveBabbar](https://www.youtube.com/playlist?list=PLDzeHZWIZsTo87y1ytEAqp7wYlEP3nner) - CodeHelp - by Babbar
 * [Binary Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4) - Pepcoding
 * [Bit Manipulation - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFJRioti3ZV7QabwoJK6eKe) - Pepcoding
+* [Complete C++ DSA Course \| Data Structures & Algorithms Playlist](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt) - Apna College
 * [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp by Babbar
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
 * [Data Structures and Algorithms for GATE — Complete Playlist](https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy) - Gate CSE lectures by Amit Khurana
@@ -351,6 +353,7 @@
 
 ### Git and GitHub
 
+* [Complete git and Github course in Hindi](https://www.youtube.com/watch?v=q8EevlEpQ2A) - Chai aur Code
 * [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics&t=7s) - Kunal Kushwaha
 * [Complete Git and Github Tutorials for Beginners](https://www.youtube.com/watch?v=Ez8F0nW6S-w) - Apna College
 * [Complete Git and GitHub Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLzdlNxYnNoafZq1AKcqiGvj0gkzrjmgq7) - Code House
@@ -409,6 +412,7 @@
 #### Tailwind CSS
 
 * [Learn Tailwind CSS with Projects - Hindi](https://www.youtube.com/playlist?list=PLPppPPmk0i3h9Xs6cAknE9OODTqZD5zFe) - Do Some Coding
+* [Tailwind Course + Project](https://www.youtube.com/playlist?list=PLUcsbZa0qzu0OrMJWIuhvibOPZm_IHGTl) - Anuj Bhaiya
 * [Tailwind CSS Complete Course](https://www.youtube.com/playlist?list=PLfEr2kn3s-br05lTglbEi25A1X07cvihy) - Anurag Singh ProCodrr
 * [Tailwind CSS Complete Course - CSS Framework [Hindi] - Beginner to Advanced](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfpwYhVAbiGAhFl6h8XWDV_) - WsCube Tech
 * [Tailwind css hindi](https://www.youtube.com/playlist?list=PLLCu4ndnReXLXfD-iIGBEB6_l8uF6TMNO) - NST Infotech
@@ -466,6 +470,13 @@
 * [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini
 * [RxJS Series (In Hindi)](https://youtube.com/playlist?list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn) - UX Trendz
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
+
+
+#### GSAP
+
+* [Animate anything with GSAP \| Complete GSAP Course](https://www.youtube.com/playlist?list=PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6) - Sheryians Coding School
+* [GSAP Demystified \| From Beginning to Advanced](https://www.youtube.com/playlist?list=PLbtI3_MArDOn9x8DUbc-E0t9PnvrUaPs9) - Sheryians Coding School
+* [Learning GSAP in hindi](https://www.youtube.com/playlist?list=PLf8nAOi8Z9NXGhl7m8rTWmzjyhJEuFYmF) - D.Designing
 
 
 #### jQuery
